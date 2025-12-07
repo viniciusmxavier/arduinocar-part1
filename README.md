@@ -8,4 +8,4 @@ formato (.ino) é padrão arduino
 
 # Assista ao vídeo
 
-[![Assista ao vídeo](https://raw.githubusercontent.com/viniciusmxavier/arduinocar-part1/main/part1arduinocar.jpg)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7267621761678999552)
+[![Assista ao vídeo](https://raw.githubusercontent.com/viniciusmxavier/arduinocar-part1/main/part1arduinocar.jpg)]([https://www.linkedin.com/feed/update/urn:li:ugcPost:7267621761678999552](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7399843017131470848?collapsed=1))
